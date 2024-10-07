@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kevakigideci.pages.dev/sitemap.xml
